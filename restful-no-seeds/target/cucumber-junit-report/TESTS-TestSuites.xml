@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite failures="0" id="0" name="JUnitFormatter" package="cucumber.runtime.formatter" skipped="0" tests="1" time="0.536688">
+    <testcase classname="Fruit list" name="List fruit" time="0.536688">
+      <system-out><![CDATA[Given the system knows about the following fruit:...........................passed
+When the client requests GET /fruits........................................passed
+Then the response should be JSON:...........................................passed
+]]></system-out>
+
+    </testcase>
+
+  </testsuite>
+</testsuites>
