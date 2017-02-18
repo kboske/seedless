@@ -44,14 +44,6 @@
     	<get src="${repo}/org/eclipse/jetty/jetty-security/${jetty.version}/jetty-security-${jetty.version}.jar"
     	    	    	    	    	    	             dest="${jars}/jetty-security-${jetty.version}.jar"/>
     	
-    	<!--<get src="${repo}/com/sun/jersey/jersey-server/${jersey.version}/jersey-server-${jersey.version}.jar"
-    	             dest="${jars}/jersey-server-${jersey.version}.jar"/>
-    	<get src="${repo}/com/sun/jersey/jersey-client/${jersey.version}/jersey-client-${jersey.version}.jar"
-    	    	             dest="${jars}/jersey-client-${jersey.version}.jar"/>
-    	<get src="${repo}/com/sun/jersey/jersey-json/${jersey.version}/jersey-json-${jersey.version}.jar"
-    	    	             dest="${jars}/jersy-json-${jersey.version}.jar"/>
-    	<get src="${repo}/com/sun/jersey/jersey-core/${jersey.version}/jersey-core-${jersey.version}.jar"
-    	    	    	             dest="${jars}/jersy-core-${jersey.version}.jar"/>-->
     	<get src="${repo}/com/sun/jersey/jersey-bundle/${jersey.version}/jersey-bundle-${jersey.version}.jar"
     	    	    	    	             dest="${jars}/jersy-bundle-${jersey.version}.jar"/>
     	
