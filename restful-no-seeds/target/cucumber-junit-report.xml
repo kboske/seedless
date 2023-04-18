@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.536688">
-<testcase classname="Fruit list" name="List fruit" time="0.536688">
-<system-out><![CDATA[Given the system knows about the following fruit:...........................passed
-When the client requests GET /fruits........................................passed
-Then the response should be JSON:...........................................passed
-]]></system-out>
-</testcase>
-</testsuite>
